@@ -1,6 +1,6 @@
 # How-To's 
 
-All credit to BenderTwin (Donate:) https://beerpay.io/benderstwin/benders-scripts
+All credit to BenderTwin (Donation Link:) https://beerpay.io/benderstwin/benders-scripts
 
 Simple Tutorial for deploying Varken, Influx, Telegraf, Grafana. For further customization and panel configuration help, please reach out to PTS Community. 
 
