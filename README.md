@@ -4,12 +4,10 @@ All credit to BenderTwin (Donation Link:) https://beerpay.io/benderstwin/benders
 
 Simple Tutorial for deploying Varken, Influx, Telegraf, Grafana. For further customization and panel configuration help, please reach out to PTS Community. 
 
-Sensible order of installation:
-
 1. Influx
-2. Telegraf
-3. Varken
-4. Grafana
+2. Varken
+3. Grafana
+4. Telegraf
 
 Deploy influxdb, grafana, and varken in PTS Community Apps
 
