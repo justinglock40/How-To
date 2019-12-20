@@ -2,6 +2,8 @@
 
 All credit to BenderTwin (Donation Link:) https://beerpay.io/benderstwin/benders-scripts
 
+IF YOU PREVIOUSLY DEPLOYED VARKEN IN PTS. RUN THIS COMMAND FIRST: **'sudo rm -rf /opt/appdata/varken`**
+
 Simple Tutorial for deploying Varken, Influx, Telegraf, Grafana. For further customization and panel configuration help, please reach out to PTS Community. 
 
 1. Influx
