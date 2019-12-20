@@ -17,7 +17,7 @@ Edit your Varken.ini file **`sudo nano /opt/appdata/varken/varken.ini`**
 
 Instructions to configure varken.ini are not part of this howto but are located here **https://github.com/Boerderij/Varken/wiki/Configuration** 
 
-Use the container name for anything on the same host (i.e., tautulli,influx, ombi, sonarr, radarr, lidarr etc...)
+Use the container name for anything on the same host (i.e., tautulli, influx, ombi, sonarr, radarr, lidarr etc.)
 
 Now go to **https://grafana.yourdomain.com**. Default Username and Password are admin/admin
 
